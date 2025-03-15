@@ -56,10 +56,7 @@ function App() {
           <section id="timeline">
             <Timeline />
           </section>
-          
-          <section id="contact">
-            <Contact />
-          </section>
+      
         </main>
         
         <Footer />
