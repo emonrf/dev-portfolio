@@ -75,9 +75,6 @@ function Navbar({ theme, toggleTheme }) {
             <li>
               <a href="#timeline" className="block py-2 px-3 text-gray-900 dark:text-white rounded hover:bg-gray-100 dark:hover:bg-gray-700 md:hover:bg-transparent md:hover:text-blue-700 dark:md:hover:text-blue-500 md:p-0">Timeline</a>
             </li>
-            <li>
-              <a href="#contact" className="block py-2 px-3 text-gray-900 dark:text-white rounded hover:bg-gray-100 dark:hover:bg-gray-700 md:hover:bg-transparent md:hover:text-blue-700 dark:md:hover:text-blue-500 md:p-0">Contact</a>
-            </li>
           </ul>
           
           {/* Mobile social icons - only visible when menu is open on mobile */}
